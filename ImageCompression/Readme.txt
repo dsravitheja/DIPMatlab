@@ -1,0 +1,1 @@
+Linear Predictive Coding(question 4) is addressed in both thresholdcmp.m and zonalcmp.m
